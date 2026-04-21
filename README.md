@@ -1,6 +1,6 @@
 # Simple ERC-20 Indexer
 
-This is an skeleton app that uses the Alchemy SDK rigged to Alchemy's Enhanced APIs in order to display all of an address's ERC-20 token balances.
+This indexer powers CBOWCRYPTEX by leveraging the Alchemy SDK and Enhanced APIs to fetch and display ERC-20 token balances for any wallet address in real time.
 
 ## Set Up
 
